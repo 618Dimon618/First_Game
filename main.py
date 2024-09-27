@@ -12,17 +12,17 @@ f2 = pygame.font.Font(None, 30)
 points = 0
 pocoun = f2.render(str(points), 1, (255, 0, 0))
 
-m = pygame.image.load("images/0.png")
-l1 = pygame.image.load("images/l1.png")
-l2 = pygame.image.load("images/l2.png")
-l3 = pygame.image.load("images/l3.png")
-l4 = pygame.image.load("images/l4.png")
-l5 = pygame.image.load("images/l5.png")
-r1 = pygame.image.load("images/r1.png")
-r2 = pygame.image.load("images/r2.png")
-r3 = pygame.image.load("images/r3.png")
-r4 = pygame.image.load("images/r4.png")
-r5 = pygame.image.load("images/r5.png")
+m = pygame.image.load("0.png")
+l1 = pygame.image.load("l1.png")
+l2 = pygame.image.load("l2.png")
+l3 = pygame.image.load("l3.png")
+l4 = pygame.image.load("l4.png")
+l5 = pygame.image.load("l5.png")
+r1 = pygame.image.load("r1.png")
+r2 = pygame.image.load("r2.png")
+r3 = pygame.image.load("r3.png")
+r4 = pygame.image.load("r4.png")
+r5 = pygame.image.load("r5.png")
 
 i = 1
 
